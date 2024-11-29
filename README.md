@@ -224,5 +224,4 @@ https://whimsical.com/final-doctor-appointment-management-system-CeQ9xwjXJpMaAtc
 ## 📝 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and extend it with proper attribution.
-
 ---
